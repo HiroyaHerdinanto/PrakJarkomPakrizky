@@ -1,0 +1,19 @@
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\obj\Debug\CLientMO.csproj.AssemblyReference.cache
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\obj\Debug\CLientMO.Properties.Resources.resources
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\obj\Debug\CLientMO.csproj.GenerateResource.cache
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\obj\Debug\CLientMO.csproj.CoreCompileInputs.cache
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\bin\Debug\CLientMO.exe.config
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\bin\Debug\CLientMO.exe
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\bin\Debug\CLientMO.pdb
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\obj\Debug\CLientMO.exe
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\CLientMO\obj\Debug\CLientMO.pdb
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\bin\Debug\CLientMO.exe.config
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\bin\Debug\CLientMO.exe
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\bin\Debug\CLientMO.pdb
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.csproj.AssemblyReference.cache
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.exe.config
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.Properties.Resources.resources
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.csproj.GenerateResource.cache
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.csproj.CoreCompileInputs.cache
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.exe
+S:\Prak Jarkom\Week 3\Week 3\CLientMO\obj\Debug\CLientMO.pdb

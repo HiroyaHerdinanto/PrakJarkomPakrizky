@@ -1,0 +1,22 @@
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Form1.resources
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+S:\Prak Jarkom\Week 3\NetworkProgramming-master\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe.config
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\bin\Debug\MovingObject.exe.config
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\bin\Debug\MovingObject.exe
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\bin\Debug\MovingObject.pdb
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.exe.config
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.Form1.resources
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.exe
+S:\Prak Jarkom\Week 3\Week 3\MovingObject\obj\Debug\MovingObject.pdb
