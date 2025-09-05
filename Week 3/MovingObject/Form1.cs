@@ -28,11 +28,11 @@ namespace MovingObject
         {
             InitializeComponent();
 
-            // Timer setup
+            // Timer
             timer1.Interval = 50;
             timer1.Enabled = true;
 
-            // Start server
+       
             StartServer();
         }
 
@@ -42,7 +42,6 @@ namespace MovingObject
             rect.X += slide;
             Invalidate();
 
-            // Push frame ke client
             PushFrame();
         }
 
@@ -116,7 +115,7 @@ namespace MovingObject
                     }
                     catch
                     {
-                        clients.Remove(client); // remove disconnected clients
+                        clients.Remove(client); 
                     }
                 }
             }

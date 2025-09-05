@@ -19,7 +19,7 @@ namespace CLientMO
         {
             InitializeComponent();
 
-            // Tambahkan PictureBox manual
+            // Tambahkan PictureBox
             pictureBox1 = new PictureBox();
             pictureBox1.Dock = DockStyle.Fill;
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -28,14 +28,14 @@ namespace CLientMO
             ConnectToServer();
         }
 
-        // deklarasi di bawah class
+       
         private PictureBox pictureBox1;
 
         private void ConnectToServer()
         {
             try
             {
-                client = new TcpClient("127.0.0.1", 5000); // connect ke server lokal
+                client = new TcpClient("127.0.0.1", 5000); // connect ke server
                 receiveThread = new Thread(ReceiveFrames);
                 receiveThread.IsBackground = true;
                 receiveThread.Start();
@@ -56,26 +56,26 @@ namespace CLientMO
 
                 while (running)
                 {
-                    // Baca panjang data (int32 = 4 byte)
+                    
                     int length = reader.ReadInt32();
 
-                    // Pastikan panjang valid
+                   
                     if (length <= 0) continue;
 
-                    // Baca data frame
+                    
                     byte[] data = reader.ReadBytes(length);
 
-                    // Convert byte[] ke Image
+                    
                     using (MemoryStream ms = new MemoryStream(data))
                     {
                         Image frame = Image.FromStream(ms);
 
-                        // Update UI di thread utama
+                        
                         if (pictureBox1.InvokeRequired)
                         {
                             pictureBox1.Invoke((MethodInvoker)delegate
                             {
-                                pictureBox1.Image?.Dispose(); // buang gambar lama biar ga leak
+                                pictureBox1.Image?.Dispose();
                                 pictureBox1.Image = new Bitmap(frame);
                             });
                         }
@@ -89,7 +89,7 @@ namespace CLientMO
             }
             catch (IOException)
             {
-                // Server disconnect
+              
                 if (running)
                 {
                     MessageBox.Show("Koneksi ke server terputus.",
