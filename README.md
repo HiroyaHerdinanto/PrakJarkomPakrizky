@@ -1,0 +1,1 @@
+Modifikasi program dengan menerapkan prinsip Data Push dan menggunakan program dasar Socket Programming, sehingga MovingObject app menjadi server dan dapat mendistribusikan gambar tersebut ke client - client yang terhubung dengan nya.  
